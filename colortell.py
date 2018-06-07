@@ -1,5 +1,4 @@
 # Type the colour and not the word
-
 # import the modules we need, for creating a GUI...
 import tkinter
 # ...and for creating random numbers.
