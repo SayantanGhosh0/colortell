@@ -1,5 +1,4 @@
 # Type the colour and not the word
-# from usingpython.com
 
 # import the modules we need, for creating a GUI...
 import tkinter
